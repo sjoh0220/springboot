@@ -11,7 +11,7 @@ public class SpringbootApplication {
 
 	@RequestMapping("/")
 	String hello() {
-		return "쭈찌얌!! <b style='color:#F2DCDB;'>사랑해!♡♥</b>";
+		return "쭈찌얌!! <b style='color:#F2DCDB;'>사랑해!♡♥!!</b>";
 	}
 	
 	public static void main(String[] args) {
